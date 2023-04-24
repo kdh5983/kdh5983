@@ -25,6 +25,6 @@ Here are some ideas to get you started:
  <a href="mailto:kdh5983@gmail.com" > 
  <img src="https://img.shields.io/badge/Mail-666666?style=flat&logo=Gmail&logoColor=white" />
 	</a>
- <a href="https://velog.io/@kdh5983" > <h3>:Blog </h3> </a>
+ <a href="https://velog.io/@kdh5983" >
  <img src="https://img.shields.io/badge/Blog-666666?style=flat&logo=Blogger&logoColor=white" />
 	</a>
