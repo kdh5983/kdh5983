@@ -28,3 +28,4 @@ Here are some ideas to get you started:
  <a href="https://velog.io/@kdh5983" >
  <img src="https://img.shields.io/badge/Blog-666666?style=flat&logo=Blogger&logoColor=white" />
 	</a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
